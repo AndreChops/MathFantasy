@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 9b8e979ed760ca34eb9dc469ddfadc6c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greenHouse_3_0_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 131
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26.5, y: 48.5}
+        - {x: -26.5, y: 27.5}
+        - {x: -41.5, y: 27.5}
+        - {x: -41.5, y: 13.5}
+        - {x: -43.5, y: 13.5}
+        - {x: -43.5, y: -7.5}
+        - {x: -47.5, y: -7.5}
+        - {x: -47.5, y: -30.5}
+        - {x: -41.5, y: -30.5}
+        - {x: -41.5, y: -47.5}
+        - {x: 46.5, y: -48.5}
+        - {x: 46.5, y: -20.5}
+        - {x: 47.5, y: -20.5}
+        - {x: 47.5, y: 27.5}
+        - {x: 31.5, y: 27.5}
+        - {x: 31.5, y: 48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9312b3e2bb39fb46af53ffe4ec58bda
+      internalID: 212063793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenHouse_3_0_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 131
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26.5, y: 48.5}
+        - {x: -26.5, y: 27.5}
+        - {x: -41.5, y: 27.5}
+        - {x: -41.5, y: 13.5}
+        - {x: -43.5, y: 13.5}
+        - {x: -43.5, y: -7.5}
+        - {x: -47.5, y: -7.5}
+        - {x: -47.5, y: -30.5}
+        - {x: -41.5, y: -30.5}
+        - {x: -41.5, y: -47.5}
+        - {x: 46.5, y: -48.5}
+        - {x: 46.5, y: -20.5}
+        - {x: 47.5, y: -20.5}
+        - {x: 47.5, y: 27.5}
+        - {x: 31.5, y: 27.5}
+        - {x: 31.5, y: 48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64c4fafc7c41b04bab4bbf688b27de3
+      internalID: 1436794010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenHouse_3_0_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 131
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26.5, y: 48.5}
+        - {x: -26.5, y: 27.5}
+        - {x: -41.5, y: 27.5}
+        - {x: -41.5, y: 13.5}
+        - {x: -43.5, y: 13.5}
+        - {x: -43.5, y: -7.5}
+        - {x: -47.5, y: -7.5}
+        - {x: -47.5, y: -30.5}
+        - {x: -41.5, y: -30.5}
+        - {x: -41.5, y: -47.5}
+        - {x: 46.5, y: -48.5}
+        - {x: 46.5, y: -20.5}
+        - {x: 47.5, y: -20.5}
+        - {x: 47.5, y: 27.5}
+        - {x: 31.5, y: 27.5}
+        - {x: 31.5, y: 48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc53c775d8771a445afd274b5f158c83
+      internalID: 1658547202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenHouse_3_0_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 131
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26.5, y: 48.5}
+        - {x: -26.5, y: 27.5}
+        - {x: -41.5, y: 27.5}
+        - {x: -41.5, y: 13.5}
+        - {x: -43.5, y: 13.5}
+        - {x: -43.5, y: -7.5}
+        - {x: -47.5, y: -7.5}
+        - {x: -47.5, y: -30.5}
+        - {x: -41.5, y: -30.5}
+        - {x: -41.5, y: -47.5}
+        - {x: 46.5, y: -48.5}
+        - {x: 46.5, y: -20.5}
+        - {x: 47.5, y: -20.5}
+        - {x: 47.5, y: 27.5}
+        - {x: 31.5, y: 27.5}
+        - {x: 31.5, y: 48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937ea9c76e9fa584ba438a9210835e11
+      internalID: 932685341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenHouse_3_0_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 19
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26.5, y: 48.5}
+        - {x: -26.5, y: 27.5}
+        - {x: -41.5, y: 27.5}
+        - {x: -41.5, y: 13.5}
+        - {x: -43.5, y: 13.5}
+        - {x: -43.5, y: -7.5}
+        - {x: -47.5, y: -7.5}
+        - {x: -47.5, y: -30.5}
+        - {x: -41.5, y: -30.5}
+        - {x: -41.5, y: -47.5}
+        - {x: 46.5, y: -48.5}
+        - {x: 46.5, y: -20.5}
+        - {x: 47.5, y: -20.5}
+        - {x: 47.5, y: 27.5}
+        - {x: 31.5, y: 27.5}
+        - {x: 31.5, y: 48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdc1d1267def9f438a023e02ccd0b32
+      internalID: -709461780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenHouse_3_0_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 19
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26.5, y: 48.5}
+        - {x: -26.5, y: 27.5}
+        - {x: -41.5, y: 27.5}
+        - {x: -41.5, y: 13.5}
+        - {x: -43.5, y: 13.5}
+        - {x: -43.5, y: -7.5}
+        - {x: -47.5, y: -7.5}
+        - {x: -47.5, y: -30.5}
+        - {x: -41.5, y: -30.5}
+        - {x: -41.5, y: -47.5}
+        - {x: 46.5, y: -48.5}
+        - {x: 46.5, y: -20.5}
+        - {x: 47.5, y: -20.5}
+        - {x: 47.5, y: 27.5}
+        - {x: 31.5, y: 27.5}
+        - {x: 31.5, y: 48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9c4aa97f5c21e4fa7cf2a5181cf9ff
+      internalID: -119842507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenHouse_3_0_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 19
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26.5, y: 48.5}
+        - {x: -26.5, y: 27.5}
+        - {x: -41.5, y: 27.5}
+        - {x: -41.5, y: 13.5}
+        - {x: -43.5, y: 13.5}
+        - {x: -43.5, y: -7.5}
+        - {x: -47.5, y: -7.5}
+        - {x: -47.5, y: -30.5}
+        - {x: -41.5, y: -30.5}
+        - {x: -41.5, y: -47.5}
+        - {x: 46.5, y: -48.5}
+        - {x: 46.5, y: -20.5}
+        - {x: 47.5, y: -20.5}
+        - {x: 47.5, y: 27.5}
+        - {x: 31.5, y: 27.5}
+        - {x: 31.5, y: 48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31645c7c875fc84998dca1f6400175a
+      internalID: 2054202165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenHouse_3_0_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 19
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26.5, y: 48.5}
+        - {x: -26.5, y: 27.5}
+        - {x: -41.5, y: 27.5}
+        - {x: -41.5, y: 13.5}
+        - {x: -43.5, y: 13.5}
+        - {x: -43.5, y: -7.5}
+        - {x: -47.5, y: -7.5}
+        - {x: -47.5, y: -30.5}
+        - {x: -41.5, y: -30.5}
+        - {x: -41.5, y: -47.5}
+        - {x: 46.5, y: -48.5}
+        - {x: 46.5, y: -20.5}
+        - {x: 47.5, y: -20.5}
+        - {x: 47.5, y: 27.5}
+        - {x: 31.5, y: 27.5}
+        - {x: 31.5, y: 48.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837cb65d0a79a064993caf7f5da4d564
+      internalID: -760922664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      greenHouse_3_0_7: -760922664
+      greenHouse_3_0_3: 932685341
+      greenHouse_3_0_6: 2054202165
+      greenHouse_3_0_4: -709461780
+      greenHouse_3_0_5: -119842507
+      greenHouse_3_0_1: 1436794010
+      greenHouse_3_0_2: 1658547202
+      greenHouse_3_0_0: 212063793
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

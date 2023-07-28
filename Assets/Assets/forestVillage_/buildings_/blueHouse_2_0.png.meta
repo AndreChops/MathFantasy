@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: f202450a240650e4c83a3c89d7e77617
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blueHouse_2_0_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 115
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -41.5, y: 38}
+        - {x: -41.5, y: 24}
+        - {x: -43.5, y: 24}
+        - {x: -43.5, y: 3}
+        - {x: -46.5, y: 3}
+        - {x: -46.5, y: -20}
+        - {x: -38.5, y: -20}
+        - {x: -38.5, y: -35}
+        - {x: 43.5, y: -35}
+        - {x: 43.5, y: -10}
+        - {x: 46.5, y: -10}
+        - {x: 46.5, y: 11}
+        - {x: 47.5, y: 11}
+        - {x: 47.5, y: 22}
+        - {x: 46.5, y: 22}
+        - {x: 46.5, y: 38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ab78efdfc3dc145a00e06367bd5cd9
+      internalID: 1666269010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueHouse_2_0_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 115
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -41.5, y: 38}
+        - {x: -41.5, y: 24}
+        - {x: -43.5, y: 24}
+        - {x: -43.5, y: 3}
+        - {x: -46.5, y: 3}
+        - {x: -46.5, y: -20}
+        - {x: -38.5, y: -20}
+        - {x: -38.5, y: -35}
+        - {x: 43.5, y: -35}
+        - {x: 43.5, y: -10}
+        - {x: 46.5, y: -10}
+        - {x: 46.5, y: 11}
+        - {x: 47.5, y: 11}
+        - {x: 47.5, y: 22}
+        - {x: 46.5, y: 22}
+        - {x: 46.5, y: 38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732b6c4f0afdfa745b0d9a925fadc5d7
+      internalID: -692091673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueHouse_2_0_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 115
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -41.5, y: 38}
+        - {x: -41.5, y: 24}
+        - {x: -43.5, y: 24}
+        - {x: -43.5, y: 3}
+        - {x: -46.5, y: 3}
+        - {x: -46.5, y: -20}
+        - {x: -38.5, y: -20}
+        - {x: -38.5, y: -35}
+        - {x: 43.5, y: -35}
+        - {x: 43.5, y: -10}
+        - {x: 46.5, y: -10}
+        - {x: 46.5, y: 11}
+        - {x: 47.5, y: 11}
+        - {x: 47.5, y: 22}
+        - {x: 46.5, y: 22}
+        - {x: 46.5, y: 38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8227dcbfc90fca64bbe002ffb0ec2013
+      internalID: -288917832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueHouse_2_0_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 115
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -41.5, y: 38}
+        - {x: -41.5, y: 24}
+        - {x: -43.5, y: 24}
+        - {x: -43.5, y: 3}
+        - {x: -46.5, y: 3}
+        - {x: -46.5, y: -20}
+        - {x: -38.5, y: -20}
+        - {x: -38.5, y: -35}
+        - {x: 43.5, y: -35}
+        - {x: 43.5, y: -10}
+        - {x: 46.5, y: -10}
+        - {x: 46.5, y: 11}
+        - {x: 47.5, y: 11}
+        - {x: 47.5, y: 22}
+        - {x: 46.5, y: 22}
+        - {x: 46.5, y: 38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d03ec2c33bff3e40bdbd45587768d70
+      internalID: -1331439794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueHouse_2_0_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 19
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -41.5, y: 38}
+        - {x: -41.5, y: 24}
+        - {x: -43.5, y: 24}
+        - {x: -43.5, y: 3}
+        - {x: -46.5, y: 3}
+        - {x: -46.5, y: -20}
+        - {x: -38.5, y: -20}
+        - {x: -38.5, y: -35}
+        - {x: 43.5, y: -35}
+        - {x: 43.5, y: -10}
+        - {x: 46.5, y: -10}
+        - {x: 46.5, y: 11}
+        - {x: 47.5, y: 11}
+        - {x: 47.5, y: 22}
+        - {x: 46.5, y: 22}
+        - {x: 46.5, y: 38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054521f186fd5c5438d9902f14b2f0c7
+      internalID: 878062366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueHouse_2_0_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 19
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -41.5, y: 38}
+        - {x: -41.5, y: 24}
+        - {x: -43.5, y: 24}
+        - {x: -43.5, y: 3}
+        - {x: -46.5, y: 3}
+        - {x: -46.5, y: -20}
+        - {x: -38.5, y: -20}
+        - {x: -38.5, y: -35}
+        - {x: 43.5, y: -35}
+        - {x: 43.5, y: -10}
+        - {x: 46.5, y: -10}
+        - {x: 46.5, y: 11}
+        - {x: 47.5, y: 11}
+        - {x: 47.5, y: 22}
+        - {x: 46.5, y: 22}
+        - {x: 46.5, y: 38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd117b291e20aa438bffc9e3b52be72
+      internalID: 2003057018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueHouse_2_0_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 19
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -41.5, y: 38}
+        - {x: -41.5, y: 24}
+        - {x: -43.5, y: 24}
+        - {x: -43.5, y: 3}
+        - {x: -46.5, y: 3}
+        - {x: -46.5, y: -20}
+        - {x: -38.5, y: -20}
+        - {x: -38.5, y: -35}
+        - {x: 43.5, y: -35}
+        - {x: 43.5, y: -10}
+        - {x: 46.5, y: -10}
+        - {x: 46.5, y: 11}
+        - {x: 47.5, y: 11}
+        - {x: 47.5, y: 22}
+        - {x: 46.5, y: 22}
+        - {x: 46.5, y: 38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66ed363e1f415449a2e4891c353e70d
+      internalID: -1876247925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueHouse_2_0_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 19
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -41.5, y: 38}
+        - {x: -41.5, y: 24}
+        - {x: -43.5, y: 24}
+        - {x: -43.5, y: 3}
+        - {x: -46.5, y: 3}
+        - {x: -46.5, y: -20}
+        - {x: -38.5, y: -20}
+        - {x: -38.5, y: -35}
+        - {x: 43.5, y: -35}
+        - {x: 43.5, y: -10}
+        - {x: 46.5, y: -10}
+        - {x: 46.5, y: 11}
+        - {x: 47.5, y: 11}
+        - {x: 47.5, y: 22}
+        - {x: 46.5, y: 22}
+        - {x: 46.5, y: 38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5c856c0e883784dbf6eddf91e2a993
+      internalID: -769368014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      blueHouse_2_0_7: -769368014
+      blueHouse_2_0_5: 2003057018
+      blueHouse_2_0_2: -288917832
+      blueHouse_2_0_6: -1876247925
+      blueHouse_2_0_4: 878062366
+      blueHouse_2_0_1: -692091673
+      blueHouse_2_0_3: -1331439794
+      blueHouse_2_0_0: 1666269010
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

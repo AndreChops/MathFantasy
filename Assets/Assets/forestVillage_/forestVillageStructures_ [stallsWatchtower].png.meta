@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: f38e959ba20ce8b468070c72c0f7089b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forestVillageStructures_ [stallsWatchtower]_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 328
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6aa7c13eac3384cb7db8ffaa7b9888
+      internalID: -2016665962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestVillageStructures_ [stallsWatchtower]_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 243
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c645c27f03b76d40ad2c49c5c0d4350
+      internalID: -1311200751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestVillageStructures_ [stallsWatchtower]_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 244
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a593f8e5353e34286ccb39b8060596
+      internalID: 1603610099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestVillageStructures_ [stallsWatchtower]_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 244
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -36, y: 9}
+        - {x: -36, y: -11}
+        - {x: -34, y: -11}
+        - {x: -34, y: -35}
+        - {x: 34, y: -35}
+        - {x: 34, y: -11}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d860eada696067c45ab3fb8e3f3cdfbd
+      internalID: -308871699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestVillageStructures_ [stallsWatchtower]_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 216
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532500b0e8f6dd7459fa9a3e85925917
+      internalID: -945989578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestVillageStructures_ [stallsWatchtower]_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 131
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d3ace67ca4f2046b43bf5bdd006793
+      internalID: 1785750880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestVillageStructures_ [stallsWatchtower]_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 132
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26, y: 9}
+        - {x: -26, y: -11}
+        - {x: -24, y: -11}
+        - {x: -24, y: -35}
+        - {x: 24, y: -35}
+        - {x: 24, y: -11}
+        - {x: 26, y: -11}
+        - {x: 26, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4380772d69a5a9a4fbe2ec5b9bf4a060
+      internalID: -57350008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestVillageStructures_ [stallsWatchtower]_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 132
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cded4ef6f25bfe24ab5d2f4405fd8ea1
+      internalID: -331599703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestVillageStructures_ [stallsWatchtower]_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 104
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2a7cbea8bfc7149bac6d092ce92ecd
+      internalID: 361258770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestVillageStructures_ [stallsWatchtower]_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 19
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974b98076960cbc49a38ba3e4672d99e
+      internalID: 1156200130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestVillageStructures_ [stallsWatchtower]_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517d66c83f069cf47a0bccc8cfa57f43
+      internalID: 552506565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestVillageStructures_ [stallsWatchtower]_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53e1c1a466bb9449bb97ec7ae9fcca2
+      internalID: -889388896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      forestVillageStructures_ [stallsWatchtower]_6: -57350008
+      forestVillageStructures_ [stallsWatchtower]_11: -889388896
+      forestVillageStructures_ [stallsWatchtower]_5: 1785750880
+      forestVillageStructures_ [stallsWatchtower]_0: -2016665962
+      forestVillageStructures_ [stallsWatchtower]_2: 1603610099
+      forestVillageStructures_ [stallsWatchtower]_4: -945989578
+      forestVillageStructures_ [stallsWatchtower]_9: 1156200130
+      forestVillageStructures_ [stallsWatchtower]_10: 552506565
+      forestVillageStructures_ [stallsWatchtower]_3: -308871699
+      forestVillageStructures_ [stallsWatchtower]_8: 361258770
+      forestVillageStructures_ [stallsWatchtower]_7: -331599703
+      forestVillageStructures_ [stallsWatchtower]_1: -1311200751
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
